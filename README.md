@@ -1,4 +1,11 @@
-### Hi there 👋
+<a href="https://github.com/lucidsushi">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucidsushi&layout=compact&theme=radical"/>
+</a>
+<br>
+<a href="https://github.com/lucidsushi">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucidsushi&show_icons=true&include_all_commits=true&theme=radical"/>
+</a>
+
 
 <!--
 **lucidsushi/lucidsushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
